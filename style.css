@@ -1,0 +1,22 @@
+body
+{
+    color: aqua;
+    background-color: darkmagenta;
+
+}
+.heading
+{
+    width: 80%;
+    font-size : 22px;
+}
+.name_of_objects , #object_name , #object_accuracy
+{
+    color: darkred;
+    
+}
+#camera
+{
+border: 2px dashed black;
+width: 350px;height: 300px;
+
+}
